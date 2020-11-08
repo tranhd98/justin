@@ -1,11 +1,10 @@
 {
   "name": "justin",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "engines": {
-          "node": "12.x"
-  }, 
+    "node": "12.x"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +17,10 @@
     "heroku"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranhd98/justin/issues"
+  },
+  "homepage": "https://github.com/tranhd98/justin#readme",
+  "description": ""
 }
