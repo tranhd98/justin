@@ -10,6 +10,10 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranhd98/justin.git"
+  },
   "keywords": [
     "heroku"
   ],
